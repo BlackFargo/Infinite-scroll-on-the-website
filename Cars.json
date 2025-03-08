@@ -1,0 +1,900 @@
+[
+	{
+		"title": "Acura NSX",
+		"id": "1",
+		"info": {
+			"engine": "3.5 л, V6",
+			"power": "537 л.с.",
+			"torque": "550 Н·м",
+			"acceleration": "3.0 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "9-ступенчатая автоматическая коробка",
+			"top_speed": "307 км/ч"
+		},
+		"price": "150,000$",
+		"img": "https://st.motortrend.com/uploads/sites/5/2018/08/2019-Acura-NSX-04.jpg?impolicy=modalgallery",
+		"brand": "Acura"
+	},
+	{
+		"title": "Acura MDX",
+		"id": "2",
+		"info": {
+			"engine": "3.5 л, V6",
+			"power": "290 л.с.",
+			"torque": "365 Н·м",
+			"acceleration": "6.2 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "9-ступенчатая автоматическая коробка",
+			"top_speed": "200 км/ч"
+		},
+		"price": "55,000$",
+		"img": "https://cdn-fastly.thetruthaboutcars.com/media/2024/01/29/13299/2024-acura-mdx-type-s-review-the-solution.jpg?size=1200x628",
+		"brand": "Acura"
+	},
+	{
+		"title": "Acura RDX",
+		"id": "3",
+		"info": {
+			"engine": "2.0 л, I4",
+			"power": "272 л.с.",
+			"torque": "380 Н·м",
+			"acceleration": "6.6 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "10-ступенчатая автоматическая коробка",
+			"top_speed": "210 км/ч"
+		},
+		"price": "50,000$",
+		"img": "https://di-uploads-pod10.dealerinspire.com/courtesyacuralittleton/uploads/2019/05/2020-Acura-RDX-Exterior-header.jpg",
+		"brand": "Acura"
+	},
+	{
+		"title": "Acura TLX",
+		"id": "4",
+		"info": {
+			"engine": "2.4 л, I4",
+			"power": "206 л.с.",
+			"torque": "247 Н·м",
+			"acceleration": "6.6 с до 100 км/ч",
+			"drive": "передний привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "230 км/ч"
+		},
+		"price": "40,000$",
+		"img": "https://hips.hearstapps.com/hmg-prod/images/2024-acura-tlx-132-65a15c814ada9.jpg?crop=0.598xw:0.505xh;0.120xw,0.332xh&resize=2048:*",
+		"brand": "Acura"
+	},
+	{
+		"title": "Audi RS7",
+		"id": "5",
+		"info": {
+			"engine": "4.0 л, V8",
+			"power": "600 л.с.",
+			"torque": "800 Н·м",
+			"acceleration": "3.6 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "280 км/ч"
+		},
+		"price": "140,000$",
+		"img": "https://motor.ru/thumb/1500x0/filters:quality(75):no_upscale()/imgs/2023/07/22/06/6015915/066266249b0e5b4779200f9033da33ff79057807.jpg",
+		"brand": "Audi"
+	},
+	{
+		"title": "Audi R8",
+		"id": "6",
+		"info": {
+			"engine": "5.2 л, V10",
+			"power": "610 л.с.",
+			"torque": "580 Н·м",
+			"acceleration": "3.2 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "330 км/ч"
+		},
+		"price": "200,000$",
+		"img": "https://hips.hearstapps.com/hmg-prod/images/2023-audi-r8-gt-front-three-quarters-motion-3-1664827965.jpg?crop=0.684xw:0.577xh;0.0321xw,0.281xh&resize=2048:*",
+		"brand": "Audi"
+	},
+	{
+		"title": "Audi Q8",
+		"id": "7",
+		"info": {
+			"engine": "3.0 л, V6",
+			"power": "335 л.с.",
+			"torque": "500 Н·м",
+			"acceleration": "6.3 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "90,000$",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/2019_Audi_Q8_Front.jpg",
+		"brand": "Audi"
+	},
+	{
+		"title": "Audi S4",
+		"id": "8",
+		"info": {
+			"engine": "3.0 л, V6",
+			"power": "354 л.с.",
+			"torque": "500 Н·м",
+			"acceleration": "4.7 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "60,000$",
+		"img": "https://i.ytimg.com/vi/VnVqR0IFhUQ/maxresdefault.jpg",
+		"brand": "Audi"
+	},
+	{
+		"title": "BMW M5 F90",
+		"id": "9",
+		"info": {
+			"engine": "4.4 л, V8",
+			"power": "600 л.с.",
+			"torque": "750 Н·м",
+			"acceleration": "3.4 с до 100 км/ч",
+			"drive": "полный привод xDrive",
+			"transmission": "8-ступенчатый автомат",
+			"top_speed": "250 км/ч (305 км/ч с M Driver’s Package)"
+		},
+		"price": "100.000$",
+		"img": "https://i.pinimg.com/736x/3a/8c/95/3a8c957d7a6a6540510c45b99c8ff3d5.jpg",
+		"brand": "BMW"
+	},
+	{
+		"title": "BMW M3 G80",
+		"id": "10",
+		"info": {
+			"engine": "3.0 л, R6",
+			"power": "510 л.с.",
+			"torque": "650 Н·м",
+			"acceleration": "3.9 с до 100 км/ч",
+			"drive": "задний/полный привод",
+			"transmission": "8-ступенчатый автомат",
+			"top_speed": "250 км/ч (290 км/ч с M Driver’s Package)"
+		},
+		"price": "80.000$",
+		"img": "https://s.auto.drom.ru/i24275/c/photos/fullsize/bmw/m3/bmw_m3_1099869.jpg",
+		"brand": "BMW"
+	},
+	{
+		"title": "BMW M6 F13",
+		"id": "11",
+		"info": {
+			"engine": "4.4 л, V8",
+			"power": "560 л.с.",
+			"torque": "680 Н·м",
+			"acceleration": "4.2 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "7-ступенчатая роботизированная коробка",
+			"top_speed": "250 км/ч (305 км/ч с M Driver’s Package)"
+		},
+		"price": "90.000$",
+		"img": "https://s1.cdn.autoevolution.com/images/news/gallery/bmw-f13-m6-review-by-car-and-driver_4.jpg",
+		"brand": "BMW"
+	},
+	{
+		"title": "BMW M8 Competition F92",
+		"id": "12",
+		"info": {
+			"engine": "4.4 л, V8",
+			"power": "625 л.с.",
+			"torque": "750 Н·м",
+			"acceleration": "3.2 с до 100 км/ч",
+			"drive": "полный привод xDrive",
+			"transmission": "8-ступенчатый автомат",
+			"top_speed": "250 км/ч (305 км/ч с M Driver’s Package)"
+		},
+		"price": "120.000$",
+		"img": "https://www.bmw.ua/content/dam/bmw/common/all-models/m-series/m8-coupe/2022/onepager/bmw-m8-coupe-onepager-gallery-impressions-m8-coupe-thumbnail-02.jpg",
+		"brand": "BMW"
+	},
+	{
+		"title": "Ford Mustang",
+		"id": "13",
+		"info": {
+			"engine": "5.0 л, V8",
+			"power": "450 л.с.",
+			"torque": "530 Н·м",
+			"acceleration": "4.2 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "6-ступенчатая механика",
+			"top_speed": "250 км/ч"
+		},
+		"price": "55,000$",
+		"img": "https://auto-portal.com.ua/wp-content/uploads/2021/10/b58c9bad8c3e8acdaacba1331f951dc4.jpg",
+		"brand": "Ford"
+	},
+	{
+		"title": "Ford Shelby GT500",
+		"id": "14",
+		"info": {
+			"engine": "5.2 л, V8",
+			"power": "760 л.с.",
+			"torque": "847 Н·м",
+			"acceleration": "3.5 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "290 км/ч"
+		},
+		"price": "70,000$",
+		"img": "https://www.motortrend.com/uploads/2022/05/Mustang-Shelby-GT500-H-In-the-Field.jpg?w=768&width=768&q=75&format=webp",
+		"brand": "Ford"
+	},
+	{
+		"title": "Ford Mustang Mach 1",
+		"id": "15",
+		"info": {
+			"engine": "5.0 л, V8",
+			"power": "480 л.с.",
+			"torque": "569 Н·м",
+			"acceleration": "4.4 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "6-ступенчатая механика",
+			"top_speed": "250 км/ч"
+		},
+		"price": "60,000$",
+		"img": "https://motorcar.com.ua/wp-content/uploads/2020/10/ford-mustang-mach-1-2021-2.jpg",
+		"brand": "Ford"
+	},
+	{
+		"title": "Ford Focus ST",
+		"id": "16",
+		"info": {
+			"engine": "2.3 л, R4",
+			"power": "280 л.с.",
+			"torque": "420 Н·м",
+			"acceleration": "5.7 с до 100 км/ч",
+			"drive": "передний привод",
+			"transmission": "6-ступенчатая механика",
+			"top_speed": "250 км/ч"
+		},
+		"price": "30,000$",
+		"img": "https://www.topgear.com/sites/default/files/cars-car/image/2024/10/1-Ford-Focus-ST-Edition-review-2024.jpg",
+		"brand": "Ford"
+	},
+	{
+		"title": "Jaguar F-Type R",
+		"id": "17",
+		"info": {
+			"engine": "5.0 л, V8",
+			"power": "575 л.с.",
+			"torque": "700 Н·м",
+			"acceleration": "3.5 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "300 км/ч"
+		},
+		"price": "100,000$",
+		"img": "https://roycestars.com/wp-content/uploads/Jaguar-F-Type-2014-kyiv-roycestars3.jpg",
+		"brand": "Jaguar"
+	},
+	{
+		"title": "Jaguar XE",
+		"id": "18",
+		"info": {
+			"engine": "2.0 л, I4",
+			"power": "250 л.с.",
+			"torque": "365 Н·м",
+			"acceleration": "6.1 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "40,000$",
+		"img": "https://i.infocar.ua/i/12/4349/1200x800.jpg",
+		"brand": "Jaguar"
+	},
+	{
+		"title": "Jaguar I-PACE",
+		"id": "19",
+		"info": {
+			"engine": "90.0 кВт·ч, электрический",
+			"power": "394 л.с.",
+			"torque": "696 Н·м",
+			"acceleration": "4.5 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "трансмиссия с двумя передачами",
+			"top_speed": "200 км/ч"
+		},
+		"price": "80,000$",
+		"img": "https://olmaks.ua/wp-content/uploads/2019/05/1513974697_raskryli-cenu-elektricheskogo-krossovera-jaguar-i-pace.jpg",
+		"brand": "Jaguar"
+	},
+	{
+		"title": "Jaguar XF",
+		"id": "20",
+		"info": {
+			"engine": "2.0 л, I4",
+			"power": "250 л.с.",
+			"torque": "365 Н·м",
+			"acceleration": "6.2 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "240 км/ч"
+		},
+		"price": "45,000$",
+		"img": "https://i.infocar.ua/i/12/4480/1400x936.jpg",
+		"brand": "Jaguar"
+	},
+	{
+		"title": "Lamborghini Urus",
+		"id": "21",
+		"info": {
+			"engine": "4.0 л, V8",
+			"power": "650 л.с.",
+			"torque": "850 Н·м",
+			"acceleration": "3.6 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "305 км/ч"
+		},
+		"price": "250,000$",
+		"img": "https://www.trucksnl.com/img/2f6e686cb59fb47d17edcf39973eca1e/vsedorozhnyj_legkovoj_avtomobil_lamborghini_4_dot_0_v8_grigio_keres_zwart_groen_2022_7510086-8.jpg?",
+		"brand": "Lamborghini"
+	},
+	{
+		"title": "Lamborghini Aventador",
+		"id": "22",
+		"info": {
+			"engine": "6.5 л, V12",
+			"power": "730 л.с.",
+			"torque": "690 Н·м",
+			"acceleration": "2.9 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "355 км/ч"
+		},
+		"price": "400,000$",
+		"img": "https://cars.bonhams.com/_next/image.jpg?url=https%3A%2F%2Fimg1.bonhams.com%2Fimage%3Fsrc%3DImages%2Flive%2F2022-09%2F22%2F25259814-2-35.jpg%26left%3D0.060000000000%26right%3D0.950000000000&w=2400&q=75",
+		"brand": "Lamborghini"
+	},
+	{
+		"title": "Lamborghini Huracán",
+		"id": "23",
+		"info": {
+			"engine": "5.2 л, V10",
+			"power": "610 л.с.",
+			"torque": "560 Н·м",
+			"acceleration": "3.2 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "325 км/ч"
+		},
+		"price": "300,000$",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2022_Lamborghini_Huracan_Evo_RWD.jpg/1200px-2022_Lamborghini_Huracan_Evo_RWD.jpg",
+		"brand": "Lamborghini"
+	},
+	{
+		"title": "Lamborghini Gallardo",
+		"id": "24",
+		"info": {
+			"engine": "5.2 л, V10",
+			"power": "560 л.с.",
+			"torque": "540 Н·м",
+			"acceleration": "3.9 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "6-ступенчатая автоматическая коробка",
+			"top_speed": "320 км/ч"
+		},
+		"price": "200,000$",
+		"img": "https://news.dupontregistry.com/wp-content/uploads/2017/05/lamborghini-gallardo-522017-1-1.jpg",
+		"brand": "Lamborghini"
+	},
+	{
+		"title": "Land Rover Defender 130",
+		"id": "25",
+		"info": {
+			"engine": "3.0 л, I6",
+			"power": "400 л.с.",
+			"torque": "500 Н·м",
+			"acceleration": "6.0 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "190 км/ч"
+		},
+		"price": "70,000$",
+		"img": "https://media.cdn-jaguarlandrover.com/api/v2/images/98120/w/1600/h/900.jpg",
+		"brand": "Land Rover"
+	},
+	{
+		"title": "Land Rover Range Rover",
+		"id": "26",
+		"info": {
+			"engine": "3.0 л, V6",
+			"power": "400 л.с.",
+			"torque": "550 Н·м",
+			"acceleration": "6.5 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "220 км/ч"
+		},
+		"price": "90,000$",
+		"img": "https://lh4.googleusercontent.com/proxy/PGzjUwooZAQVJkF2-kt0qmw8adxjmK8ypYSyTCklF_017ybsBJc84KJaDw17HPHt417gJNlF4kKLU2wSKxOqjq1FaJ7ufI7zXsXTb3xiVx1_WzPF83yAZ59TrUxtm1lDTBvNYb55m4KnzE0V1D3qWTkun6xgLw",
+		"brand": "Land Rover"
+	},
+	{
+		"title": "Land Rover Discovery Sport",
+		"id": "27",
+		"info": {
+			"engine": "2.0 л, R4",
+			"power": "246 л.с.",
+			"torque": "365 Н·м",
+			"acceleration": "7.5 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "9-ступенчатая автоматическая коробка",
+			"top_speed": "205 км/ч"
+		},
+		"price": "60,000$",
+		"img": "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/land-rover-discovery-sport__478849-620x415x70.jpg",
+		"brand": "Land Rover"
+	},
+	{
+		"title": "Land Rover Evoque",
+		"id": "28",
+		"info": {
+			"engine": "2.0 л, R4",
+			"power": "246 л.с.",
+			"torque": "365 Н·м",
+			"acceleration": "7.4 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "9-ступенчатая автоматическая коробка",
+			"top_speed": "200 км/ч"
+		},
+		"price": "55,000$",
+		"img": "https://www.automoli.com/common/vehicles/_assets/img/gallery/f105/land-rover-range-rover-evoque-ii.jpg",
+		"brand": "Land Rover"
+	},
+	{
+		"title": "Lexus LC 500",
+		"id": "29",
+		"info": {
+			"engine": "5.0 л, V8",
+			"power": "471 л.с.",
+			"torque": "530 Н·м",
+			"acceleration": "4.4 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "10-ступенчатая автоматическая коробка",
+			"top_speed": "270 км/ч"
+		},
+		"price": "100,000$",
+		"img": "https://avto.informator.ua/wp-content/uploads/2021/01/2021_Lexus_LC_500_Inspiration_Series_17.jpg",
+		"brand": "Lexus"
+	},
+	{
+		"title": "Lexus RX 500h",
+		"id": "30",
+		"info": {
+			"engine": "3.5 л, V6",
+			"power": "308 л.с.",
+			"torque": "450 Н·м",
+			"acceleration": "5.8 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "вариатор",
+			"top_speed": "200 км/ч"
+		},
+		"price": "70,000$",
+		"img": "https://motorcar.com.ua/wp-content/uploads/2023/05/2024-lexus-lc500-1.jpg",
+		"brand": "Lexus"
+	},
+	{
+		"title": "Lexus IS 350 F Sport",
+		"id": "31",
+		"info": {
+			"engine": "3.5 л, V6",
+			"power": "311 л.с.",
+			"torque": "380 Н·м",
+			"acceleration": "5.6 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "230 км/ч"
+		},
+		"price": "45,000$",
+		"img": "https://s3mag.com/wp-content/uploads/2022/02/Lexus-IS350-review-4-1280x640.jpg",
+		"brand": "Lexus"
+	},
+	{
+		"title": "Lexus NX 300h",
+		"id": "32",
+		"info": {
+			"engine": "2.5 л, R4",
+			"power": "194 л.с.",
+			"torque": "211 Н·м",
+			"acceleration": "9.0 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "вариатор",
+			"top_speed": "200 км/ч"
+		},
+		"price": "40,000$",
+		"img": "https://www.motortrend.com/uploads/sites/5/2020/06/2020-Lexus-NX-300h-15.jpg",
+		"brand": "Lexus"
+	},
+	{
+		"title": "Maserati Levante",
+		"id": "33",
+		"info": {
+			"engine": "3.0 л, V6",
+			"power": "350 л.с.",
+			"torque": "500 Н·м",
+			"acceleration": "6.0 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "75,000$",
+		"img": "https://vehicle-images.dealerinspire.com/757c-110005791/ZN661YUMXRX453905/281f5ab46bf832fb21de8de96d285135.jpg",
+		"brand": "Maserati"
+	},
+	{
+		"title": "Maserati Ghibli",
+		"id": "34",
+		"info": {
+			"engine": "3.0 л, V6",
+			"power": "350 л.с.",
+			"torque": "500 Н·м",
+			"acceleration": "5.6 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "270 км/ч"
+		},
+		"price": "60,000$",
+		"img": "https://i.infocar.ua/i/12/2850/1400x936.jpg",
+		"brand": "Maserati"
+	},
+	{
+		"title": "Maserati Quattroporte",
+		"id": "35",
+		"info": {
+			"engine": "3.0 л, V6",
+			"power": "430 л.с.",
+			"torque": "580 Н·м",
+			"acceleration": "5.0 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "280 км/ч"
+		},
+		"price": "90,000$",
+		"img": "https://exotic-cars.com.ua/storage/source/1/3zPd9nBBsa0cZ7OhKzCDxBrOjeuHehFr.jpg",
+		"brand": "Maserati"
+	},
+	{
+		"title": "Maserati MC20",
+		"id": "36",
+		"info": {
+			"engine": "3.0 л, V6",
+			"power": "630 л.с.",
+			"torque": "730 Н·м",
+			"acceleration": "2.9 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "325 км/ч"
+		},
+		"price": "200,000$",
+		"img": "https://vehicle-images.dealerinspire.com/427a-110009433/thumbnails/large/ZAMBMSABXR0450739/158f5ed4b05c9a5c88c54f13728da8a7.jpg",
+		"brand": "Maserati"
+	},
+	{
+		"title": "Mercedes-AMG GT",
+		"id": "37",
+		"info": {
+			"engine": "4.0 л, V8",
+			"power": "510 л.с.",
+			"torque": "650 Н·м",
+			"acceleration": "3.8 с до 100 км/ч",
+			"drive": "задний/полный привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "310 км/ч"
+		},
+		"price": "120,000$",
+		"img": "https://ukrautoprom.com.ua/wp-content/uploads/2020/09/me_001.jpg",
+		"brand": "Mercedes-Benz"
+	},
+	{
+		"title": "Mercedes-Benz S-Class",
+		"id": "38",
+		"info": {
+			"engine": "3.0 л, R6",
+			"power": "429 л.с.",
+			"torque": "500 Н·м",
+			"acceleration": "5.0 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "9-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "130,000$",
+		"img": "https://i.infocar.ua/i/12/6268/1200x630.jpg",
+		"brand": "Mercedes-Benz"
+	},
+	{
+		"title": "Mercedes-Benz E-Class",
+		"id": "39",
+		"info": {
+			"engine": "2.0 л, R4",
+			"power": "258 л.с.",
+			"torque": "370 Н·м",
+			"acceleration": "6.0 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "9-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "70,000$",
+		"img": "https://www.topgear.com/sites/default/files/2023/12/1%20Mercedes%20E-Class%20review.jpg",
+		"brand": "Mercedes-Benz"
+	},
+	{
+		"title": "Mercedes-AMG GLC 63",
+		"id": "40",
+		"info": {
+			"engine": "4.0 л, V8",
+			"power": "510 л.с.",
+			"torque": "700 Н·м",
+			"acceleration": "4.0 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "9-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "90,000$",
+		"img": "https://i.infocar.ua/i/6/142861/945x471.jpg",
+		"brand": "Mercedes-Benz"
+	},
+	{
+		"title": "Porsche 911",
+		"id": "41",
+		"info": {
+			"engine": "3.0 л, R6",
+			"power": "443 л.с.",
+			"torque": "530 Н·м",
+			"acceleration": "3.7 с до 100 км/ч",
+			"drive": "задний/полный привод",
+			"transmission": "8-ступенчатый автомат",
+			"top_speed": "308 км/ч"
+		},
+		"price": "150,000$",
+		"img": "https://motor.ru/imgs/2024/05/28/15/6483025/89703d72ea7e6156de22095b79994172889ac4a5.jpg",
+		"brand": "Porsche"
+	},
+	{
+		"title": "Porsche 718 Cayman",
+		"id": "42",
+		"info": {
+			"engine": "2.5 л, R4",
+			"power": "300 л.с.",
+			"torque": "380 Н·м",
+			"acceleration": "4.9 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "6-ступенчатая механика",
+			"top_speed": "275 км/ч"
+		},
+		"price": "60,000$",
+		"img": "https://images-porsche.imgix.net/-/media/19280935E92747B5838D430742C0AF36_ACF60B398E664128AD35B6C50D6D2AD7_CM21N3BOX0002-1-718-cayman-driving?w=2560&h=1441&q=45&crop=faces%2Centropy%2Cedges&auto=format",
+		"brand": "Porsche"
+	},
+	{
+		"title": "Porsche Taycan 4S",
+		"id": "43",
+		"info": {
+			"battery": "93.4 кВт·ч",
+			"engine": "электрический",
+			"power": "509 л.с.",
+			"torque": "640 Н·м",
+			"acceleration": "4.0 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "2-ступенчатая трансмиссия",
+			"top_speed": "250 км/ч"
+		},
+		"price": "100,000$",
+		"img": "https://nextcar.ua/images/thumbnails/800/450/detailed/572/1_ptsr-4p.jpg.jpg",
+		"brand": "Porsche"
+	},
+	{
+		"title": "Porsche Panamera Turbo",
+		"id": "44",
+		"info": {
+			"engine": "4.0 л, V8",
+			"power": "550 л.с.",
+			"torque": "770 Н·м",
+			"acceleration": "3.6 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "8-ступенчатая автоматическая коробка передач",
+			"top_speed": "304 км/ч"
+		},
+		"price": "110,000$",
+		"img": "https://focus.ua/static/storage/thumbs/920x465/f/b9/1d88d930-4187595c54169119d0c37dcd36f8ab9f.jpg?v=7639_1",
+		"brand": "Porsche"
+	},
+
+	{
+		"title": "Skoda Superb",
+		"id": "45",
+		"info": {
+			"engine": "2.0 л, R4",
+			"power": "272 л.с.",
+			"torque": "400 Н·м",
+			"acceleration": "5.6 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "45,000$",
+		"img": "https://motorcar.com.ua/wp-content/uploads/2024/08/skoda-superb-sportline-2024-1.jpg",
+		"brand": "Skoda"
+	},
+	{
+		"title": "Skoda Octavia RS",
+		"id": "46",
+		"info": {
+			"engine": "2.0 л, R4",
+			"power": "245 л.с.",
+			"torque": "370 Н·м",
+			"acceleration": "6.7 с до 100 км/ч",
+			"drive": "передний привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "35,000$",
+		"img": "https://i.infocar.ua/i/6/136984/945x471.jpg",
+		"brand": "Skoda"
+	},
+	{
+		"title": "Skoda Kodiaq RS",
+		"id": "47",
+		"info": {
+			"engine": "2.0 л, R4",
+			"power": "240 л.с.",
+			"torque": "500 Н·м",
+			"acceleration": "6.9 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "220 км/ч"
+		},
+		"price": "50,000$",
+		"img": "https://mezha.media/wp-content/uploads/2024/11/Skoda-Kodiaq-RS-900x600.jpg",
+		"brand": "Skoda"
+	},
+	{
+		"title": "Skoda Fabia RS",
+		"id": "48",
+		"info": {
+			"engine": "1.4 л, R4",
+			"power": "180 л.с.",
+			"torque": "250 Н·м",
+			"acceleration": "6.8 с до 100 км/ч",
+			"drive": "передний привод",
+			"transmission": "6-ступенчатая механика",
+			"top_speed": "230 км/ч"
+		},
+		"price": "25,000$",
+		"img": "https://reono.ua/uploads/news/9/1/8037/b264278416273896c90365e52202b8b7_display.jpg",
+		"brand": "Skoda"
+	},
+	{
+		"title": "Toyota Supra",
+		"id": "49",
+		"info": {
+			"engine": "3.0 л, I6",
+			"power": "335 л.с.",
+			"torque": "500 Н·м",
+			"acceleration": "4.1 с до 100 км/ч",
+			"drive": "задний привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "50,000$",
+		"img": "https://focus.ua/static/storage/thumbs/920x465/f/5b/b4465fd4-3a9e40100dc52da67f8d08fb86b565bf.jpg?v=5410_1",
+		"brand": "Toyota"
+	},
+	{
+		"title": "Toyota Land Cruiser 300",
+		"id": "50",
+		"info": {
+			"engine": "3.5 л, V6",
+			"power": "409 л.с.",
+			"torque": "650 Н·м",
+			"acceleration": "6.7 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "10-ступенчатая автоматическая коробка",
+			"top_speed": "190 км/ч"
+		},
+		"price": "100,000$",
+		"img": "https://i.infocar.ua/i/12/6590/1400x936.jpg",
+		"brand": "Toyota"
+	},
+	{
+		"title": "Toyota Corolla GR",
+		"id": "51",
+		"info": {
+			"engine": "1.6 л, R4",
+			"power": "300 л.с.",
+			"torque": "370 Н·м",
+			"acceleration": "5.3 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "6-ступенчатая механика",
+			"top_speed": "250 км/ч"
+		},
+		"price": "40,000$",
+		"img": "https://focus.ua/static/storage/originals/a/d2/3603e2201cb5c01c50c1e59bfaf6fd2a.jpg",
+		"brand": "Toyota"
+	},
+	{
+		"title": "Toyota RAV4 Prime",
+		"id": "52",
+		"info": {
+			"engine": "2.5 л, R4",
+			"power": "302 л.с.",
+			"torque": "547 Н·м",
+			"acceleration": "5.7 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "вариатор",
+			"top_speed": "180 км/ч"
+		},
+		"price": "45,000$",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYaC69WvhD8lC6EhCJiiYhKHIJkkRj7RLqeg&s",
+		"brand": "Toyota"
+	},
+	{
+		"title": "Volkswagen Multivan",
+		"id": "53",
+		"info": {
+			"engine": "2.0 л, R4",
+			"power": "204 л.с.",
+			"torque": "400 Н·м",
+			"acceleration": "9.5 с до 100 км/ч",
+			"drive": "передний привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "190 км/ч"
+		},
+		"price": "80,000$",
+		"img": "https://vip-car.com.ua/sites/default/files/styles/pan/public/pi/13545/2024-13545-2383197.jpeg?itok=pUCkHkI3",
+		"brand": "Volkswagen"
+	},
+	{
+		"title": "Volkswagen Golf R",
+		"id": "54",
+		"info": {
+			"engine": "2.0 л, R4",
+			"power": "320 л.с.",
+			"torque": "420 Н·м",
+			"acceleration": "4.7 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "40,000$",
+		"img": "https://i.infocar.ua/i/12/6358/1400x936.jpg",
+		"brand": "Volkswagen"
+	},
+	{
+		"title": "Volkswagen Arteon",
+		"id": "55",
+		"info": {
+			"engine": "2.0 л, R4",
+			"power": "280 л.с.",
+			"torque": "350 Н·м",
+			"acceleration": "5.5 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "7-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "45,000$",
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/2018_Volkswagen_Arteon_2.0.jpg/1200px-2018_Volkswagen_Arteon_2.0.jpg",
+		"brand": "Volkswagen"
+	},
+	{
+		"title": "Volkswagen Touareg",
+		"id": "56",
+		"info": {
+			"engine": "3.0 л, V6",
+			"power": "335 л.с.",
+			"torque": "500 Н·м",
+			"acceleration": "5.9 с до 100 км/ч",
+			"drive": "полный привод",
+			"transmission": "8-ступенчатая автоматическая коробка",
+			"top_speed": "250 км/ч"
+		},
+		"price": "85,000$",
+		"img": "https://lh4.googleusercontent.com/proxy/ztm5cHzVaDDhh1VutvWuFTv9QyE5OF0pnfJbQxaJclR4duPKNDAyG3wRN609nNT-TKd4DagXFGvtAg_0hCtSQLBY2NLi8-5hsYHiXuf0WNVNYUp4mkU-qNiL359njf_HYSLfqhY1eBfgLoBmuKewrg",
+		"brand": "Volkswagen"
+	}
+]
