@@ -1,0 +1,43 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style: none;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	color: var(--text-color);
+	
+
+	background-color: var(--background);
+}
+
+body .dark-theme {
+	color: var();
+	background-color: var();
+}
+
+svg {
+	transition: all 0.3s;
+}
+
+button {
+	border: none;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+}

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Cars</title>
+		<link rel="stylesheet" href="./src/styles/index.css" />
+		<link rel="icon" href="./public/logo.ico" />
+	</head>
+	<body class="">
+		<div class="wrapper">
+		<header class="header">
+			<div class="header__inner container">
+				<h1>Luxury Cars</h1>
+				<div class="header__actions">
+					<label class="header__actions-label" for="switch">
+						<input
+							type="checkbox"
+							class="header__actions-checkbox"
+							id="switch"
+						/>
+						<span class="header__actions-inner"></span>
+					</label>
+					<button class="header__basketBtn">
+						<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+						<svg
+							fill="#000000"
+							height="30px"
+							width="30px"
+							version="1.1"
+							id="Layer_1"
+							xmlns="http://www.w3.org/2000/svg"
+							xmlns:xlink="http://www.w3.org/1999/xlink"
+							viewBox="0 0 512 512"
+							xml:space="preserve"
+						>
+							<g>
+								<g>
+									<circle cx="58.182" cy="221.091" r="11.636" />
+								</g>
+							</g>
+							<g>
+								<g>
+									<circle cx="453.818" cy="221.091" r="11.636" />
+								</g>
+							</g>
+							<g>
+								<g>
+									<path
+										d="M151.273,314.182c-6.982,0-11.636,4.655-11.636,11.636v93.091c0,6.982,4.655,11.636,11.636,11.636
+			c6.982,0,11.636-4.655,11.636-11.636v-93.091C162.909,318.836,158.255,314.182,151.273,314.182z"
+									/>
+								</g>
+							</g>
+							<g>
+								<g>
+									<path
+										d="M221.091,314.182c-6.982,0-11.636,4.655-11.636,11.636v93.091c0,6.982,4.655,11.636,11.636,11.636
+			c6.982,0,11.636-4.655,11.636-11.636v-93.091C232.727,318.836,228.073,314.182,221.091,314.182z"
+									/>
+								</g>
+							</g>
+							<g>
+								<g>
+									<path
+										d="M290.909,314.182c-6.982,0-11.636,4.655-11.636,11.636v93.091c0,6.982,4.655,11.636,11.636,11.636
+			s11.636-4.655,11.636-11.636v-93.091C302.545,318.836,297.891,314.182,290.909,314.182z"
+									/>
+								</g>
+							</g>
+							<g>
+								<g>
+									<path
+										d="M360.727,314.182c-6.982,0-11.636,4.655-11.636,11.636v93.091c0,6.982,4.655,11.636,11.636,11.636
+			s11.636-4.655,11.636-11.636v-93.091C372.364,318.836,367.709,314.182,360.727,314.182z"
+									/>
+								</g>
+							</g>
+							<g>
+								<g>
+									<path
+										d="M477.091,162.909h-38.4l-27.927-91.927c-3.491-13.964-17.455-24.436-32.582-24.436h-29.091V34.909
+			c0-6.982-4.655-11.636-11.636-11.636H174.545c-6.982,0-11.636,4.655-11.636,11.636v11.636h-18.618
+			c-15.127,0-27.927,8.145-32.582,22.109l-38.4,94.255h-38.4C15.127,162.909,0,178.036,0,197.818v46.545
+			c0,19.782,15.127,34.909,34.909,34.909h1.164l19.782,178.036c2.327,18.618,17.455,31.418,34.909,31.418h330.473
+			c17.455,0,32.582-12.8,34.909-31.418l19.782-178.036h1.164c19.782,0,34.909-15.127,34.909-34.909v-46.545
+			C512,178.036,496.873,162.909,477.091,162.909z M186.182,46.545h139.636v23.273H186.182V46.545z M489.891,244.364h-1.164
+			c0,6.982-4.655,11.636-11.636,11.636h-11.636H93.091c-6.982,0-11.636,4.655-11.636,11.636s4.655,11.636,11.636,11.636h359.564
+			l-19.782,175.709c-1.164,5.818-5.818,10.473-11.636,10.473H90.764c-5.818,0-10.473-4.655-11.636-10.473L58.182,266.473
+			C57.018,260.655,52.364,256,46.545,256H34.909c-6.982,0-11.636-4.655-11.636-11.636v-46.545c0-6.982,4.655-11.636,11.636-11.636
+			h46.545H384c6.982,0,11.636-4.655,11.636-11.636s-4.655-11.636-11.636-11.636H98.909L132.655,76.8
+			c2.327-4.655,5.818-6.982,11.636-6.982h18.618v11.636c0,6.982,4.655,11.636,11.636,11.636h162.909
+			c6.982,0,11.636-4.655,11.636-11.636V69.818h29.091c4.655,0,9.309,3.491,11.636,8.145l30.255,100.073
+			c1.164,4.655,5.818,8.145,11.636,8.145h46.545c6.982,0,11.636,4.655,11.636,11.636V244.364z"
+									/>
+								</g>
+							</g>
+						</svg>
+					</button>
+				</div>
+			</div>
+		</header>
+
+		<div class="cart" aria-label="shop-cart" style="display: none" aria-label="cart">
+			<div class="cart__inner">
+				<div class="cart__header">
+					<h1 class="cart__title">В корзине</h1>
+					<button type="button" class="cart__close-btn"></button>
+				</div>
+
+				<ul class="cart__list"></ul>
+				<div class="cart__footer">
+					<h1 class="cart__footer-total">Total price: 0$</h1>
+					<button class="cart__footer-order">Order</button>
+				</div>
+			</div>
+		</div>
+		<main class="main container">
+			<section class="section">
+				<dialog>
+					<div class="dialog__container">
+						<img
+							src="https://i.pinimg.com/736x/3a/8c/95/3a8c957d7a6a6540510c45b99c8ff3d5.jpg"
+							id="dialogImage"
+							alt="car"
+						/>
+					</div>
+				</dialog>
+				<div class="search">
+					<h1>Каталог авто и их технических характеристик</h1>
+					<input
+						type="search"
+						id="inpSearch"
+						class="search__input"
+						placeholder="Write the product you are interested in"
+					/>
+				</div>
+				<div class="search__checkboxes">
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Acura"
+							value="Acura"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Acura">Acura</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Audi"
+							value="Audi"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Audi">Audi</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="BMW"
+							value="BMW"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="BMW">BMW</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Ford"
+							value="Ford"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Ford">Ford</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Jaguar"
+							value="Jaguar"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Jaguar">Jaguar</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Lamborghini"
+							value="Lamborghini"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Lamborghini">Lamborghini</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Land_Rover"
+							value="Land Rover"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Land_Rover">Land Rover</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Lexus"
+							value="Lexus"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Lexus">Lexus</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Maserati"
+							value="Maserati"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Maserati">Maserati</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Mercedes_Benz"
+							value="Mercedes-Benz"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Mercedes_Benz"
+							>Mercedes-Benz</label
+						>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Porsche"
+							value="Porsche"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Porsche">Porsche</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Skoda"
+							value="Skoda"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Skoda">Skoda</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Toyota"
+							value="Toyota"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Toyota">Toyota</label>
+					</div>
+
+					<div class="search__checkbox">
+						<input
+							type="checkbox"
+							id="Volkswagen"
+							value="Volkswagen"
+							name="car"
+							class="search__checkbox-input"
+						/>
+						<label class="search__label" for="Volkswagen">Volkswagen</label>
+					</div>
+				</div>
+				<div class="cards"></div>
+			</section>
+		</main>
+
+		<footer class="footer">
+			<div class="footer__inner container">
+				<h1>Luxury Cars</h1>
+				<em>All rights reserved 2025</em>
+			</div>
+		</footer>
+		<button class="arrow-up" aria-label="Back to top" id="arrow-up">
+			<?xml version="1.0" encoding="iso-8859-1"?>
+			<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+			<svg
+				fill="#000000"
+				height="800px"
+				width="800px"
+				version="1.1"
+				id="Layer_1"
+				xmlns="http://www.w3.org/2000/svg"
+				xmlns:xlink="http://www.w3.org/1999/xlink"
+				viewBox="0 0 330 330"
+				xml:space="preserve"
+			>
+				<path
+					id="XMLID_21_"
+					d="M213.107,41.894l-37.5-37.5c-5.857-5.858-15.355-5.858-21.213,0l-37.5,37.5
+	c-4.29,4.29-5.573,10.742-3.252,16.347c2.322,5.605,7.792,9.26,13.858,9.26H150V315c0,8.284,6.716,15,15,15c8.284,0,15-6.716,15-15
+	V67.5h22.5c6.067,0,11.537-3.655,13.858-9.26C218.68,52.635,217.397,46.184,213.107,41.894z"
+				/>
+			</svg>
+		</button>
+
+		<!-- <div class="cart">
+			<div class="cart__content">
+
+			</div>
+		</div> -->
+		</div>
+
+		<script src="./src/main.js" type="module"></script>
+	</body>
+</html>

@@ -1,0 +1,15 @@
+@use './modal';
+@use './utils';
+@use './globals';
+@use './mixins';
+
+@use './variables';
+
+@use './blocks/header';
+@use './blocks/footer';
+@use './blocks/main';
+@use './blocks/arrow-up';
+@use './blocks/cart';
+@use './media';
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');

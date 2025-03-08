@@ -1,0 +1,27 @@
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px 20px;
+	
+}
+
+.hide {
+	opacity: 0 !important;
+	visibility: hidden !important;
+	transition: all 0.3s !important;
+}
+.show {
+	opacity: 1 !important;
+	visibility: visible !important;
+	transition: all 0.3s !important;
+}
+
+.block-scroll {
+	overflow: hidden;
+}
+
+.error-message {
+	margin-top: 10px;
+	color: red;
+	font-size: 20px;
+}

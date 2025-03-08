@@ -1,0 +1,17 @@
+$tablet: 750px;
+
+@mixin laptop {
+	@media (max-width: $tablet) {
+		@content
+	}
+}
+
+@media (max-width: $tablet) {
+	.search h1 {
+		text-align: center;
+	}
+	.cards {
+		grid-template-columns: repeat(2, 1fr);
+		justify-content: center;
+	}
+}
