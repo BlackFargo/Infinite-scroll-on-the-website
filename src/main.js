@@ -79,7 +79,7 @@ const cardObserver = new IntersectionObserver(([entry], observer) => {
 ,{threshold: 0.9})
 
 function loadData(min = 0, max = 4) {
-fetch('https://blackfargo.github.io/Infinite-scroll-on-the-website/data.json')
+fetch('https://blackfargo.github.io/Infinite-scroll-on-the-website/public/cars.json')
 	.then(response => response.json())
 	.then(data => {
         const newData = data.filter(item => item.id > min && item.id <= max)
